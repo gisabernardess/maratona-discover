@@ -1,6 +1,6 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
   <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
-    <p align="center">dev.finance<span style="color: green">$</span></p>
+    <p align="center"><img alt="logo dev.finance$" src="https://github.com/gisabernardess/maratona-discover/blob/main/web/assets/logo.svg"></p>
     <p align="center">
       <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gisabernardess/maratona-discover">
       <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gisabernardess/maratona-discover">
@@ -8,7 +8,7 @@
       <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gisabernardess/maratona-discover">
       <img alt="Github license" src="https://img.shields.io/github/license/gisabernardess/maratona-discover">
     </p>
-    <p align="center"><img alt="dev.finance$" src="https://github.com/gisabernardess/maratona-discover/blob/main/.github/landing.png"></p>
+    <p align="center"><img alt="landing dev.finance$" src="https://github.com/gisabernardess/maratona-discover/blob/main/.github/landing.png"></p>
     <h2>:speech_balloon: Project</h2>
     <p>dev.finance<span style="color: green">$</span> is an application for finance management. This project was developed at the <a href="https://maratonadiscover.rocketseat.com.br" rel="nofollow">Maratona Discover</a>, remembering and dominating programming and its ecosystem.</p>
     <h2>:rocket: Technologies</h2>
@@ -16,7 +16,7 @@
     <ul>
       <li><a href="https://www.w3schools.com/html/" rel="nofollow">HTML</a></li>
       <li><a href="https://www.w3schools.com/css/" rel="nofollow">CSS</a></li>
-      <li><a href="/" rel="nofollow">in progress..</a></li>
+      <li><a href="https://www.w3schools.com/js/" rel="nofollow">Javascript</a></li>
     </ul>
     <h2>:information_source:</a> How To Use </h2>
     <p>To clone and run this application, you'll need <a href="https://git-scm.com" rel="nofollow">Git</a>. From your command line:</p>
