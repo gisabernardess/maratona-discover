@@ -1,6 +1,6 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
   <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
-    <p align="center"><img alt="logo dev.finance$" src="https://github.com/gisabernardess/maratona-discover/blob/main/web/assets/logo.svg"></p>
+    <p align="center"><img alt="logo dev.finance$" src="https://github.com/gisabernardess/maratona-discover/blob/main/.github/logo.svg"></p>
     <p align="center">
       <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gisabernardess/maratona-discover">
       <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gisabernardess/maratona-discover">
